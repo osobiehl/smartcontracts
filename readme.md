@@ -1,5 +1,7 @@
 Token name: udacity star notary JB
+
 token symbol: UDSJB
+
 project specification:
     -Truffle v5.1.60 (core: 5.1.60)
     -Solidity v0.5.16 (solc-js)
